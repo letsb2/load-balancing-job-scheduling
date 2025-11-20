@@ -60,7 +60,7 @@ Foram realizados três experimentos:
 
 Cada experimento segue o mesmo processo:
 
-1. Inicialização das cargas  
+1. Inicialização das cargas
 2. Distribuição sequencial das tarefas  
 3. Contagem de operações  
 4. Cálculo do makespan  
