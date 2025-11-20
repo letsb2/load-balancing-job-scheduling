@@ -100,7 +100,7 @@ O método funciona como uma boa aproximação, mas não garante a solução óti
 
 O código principal da simulação encontra-se disponível em:
 
-- `load_balancing.py`   
+- `untitled0.py`   
 
 ---
 
